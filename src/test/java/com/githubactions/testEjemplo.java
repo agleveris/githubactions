@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class testEjemplo {
 	@Test
 	public void testExample() {
-		System.out.println("mi test funciona??");
+		System.out.println("El test funciona??");
 		Assert.assertEquals(1, 1);
 	}
 
